@@ -5,7 +5,7 @@ categories: []
 tags: [github, domain, dns, hosting]
 ---
 
-To have this blog on a subdomain, I bought a domain from OVH its name is `polakiewi.cz`.
+To have this blog on a subdomain, I bought a domain from OVH its name is `polakiewi.cz`.  
 For this blog, I created the subdomain `blog.polakiewi.cz`.
 
 To attach it to the Github Pages, I need to go to the repository settings > Pages > Custom domain and add `blog.polakiewi.cz`.
@@ -18,7 +18,7 @@ Also according to the documentation I need to create CNAME record in my OVH DNS 
 blog IN CNAME polakv93.github.io. 
 ```
 
-Where `blog` is my subdomain and `polakv93.github.io` is my Github Pages domain.  
+Where `blog` is my subdomain and `polakv93.github.io` is my Github Pages domain.  
 So now in the browser, I can go to `https://blog.polakiewi.cz` and see my blog.  
 
 Also is nice hove the same blog available under `https://www.blog.polakiewi.cz` so to achieve that I created another CNAME.
