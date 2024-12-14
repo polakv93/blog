@@ -2,7 +2,7 @@
 title: Toggl Azure DevOps chrome extension ⚙️
 date: 2024-12-14 20:00:00+0100
 categories: [programming]
-tags: [toggl, programmin, chrome-extension,]
+tags: [toggl, programming, chrome-extension,]
 ---
 
 I often use [Toggl](https://toggl.com/) to track my spend time on what I do.  
