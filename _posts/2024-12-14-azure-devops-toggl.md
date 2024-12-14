@@ -20,4 +20,4 @@ Effect in Toggl:
 
 ![Effect in toggl](/assets/images/2024-12-14-02.png)
 
-If you are interested in this extension, you can find it on [GitHub](https://github.com/polakv93/chrome-ex-azure-devops-toggle).
+If you are interested in this extension, you can find it on [chrome-ex-azure-devops-toggle](https://github.com/polakv93/chrome-ex-azure-devops-toggle).
