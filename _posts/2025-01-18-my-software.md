@@ -16,6 +16,7 @@ tags: [software, tools, windows]
 - [Starship](https://github.com/starship/starship) - prompt for powershell
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) - best cd alternative
 - [fzf](https://github.com/junegunn/fzf) - fuzzy finder
+- [flux](https://justgetflux.com/) - night light without eye strain
 
 ## Communication
 - [discord](https://discord.com/)
