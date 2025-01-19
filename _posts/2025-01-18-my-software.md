@@ -35,6 +35,9 @@ tags: [software, tools, windows]
 - [Cursor](https://www.cursor.com/)
    - https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) - hub for all jetbrains tools
+   - https://plugins.jetbrains.com/plugin/164-ideavim
+   - https://plugins.jetbrains.com/plugin/7086-acejump
+   - https://plugins.jetbrains.com/plugin/13092-resharper-keymap
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - node version manager
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - windows subsystem for linux
 - [Docker](https://www.docker.com/)
@@ -43,6 +46,7 @@ tags: [software, tools, windows]
 ## AI
 - [LMStudio](https://lmstudio.ai/) - easy way to use open source models
 - [AnythingLLM](https://anythingllm.com/) - run multiple models in one
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - easy way to use diffusion models
 
 ## Gaming
 - [Steam](https://store.steampowered.com/)
