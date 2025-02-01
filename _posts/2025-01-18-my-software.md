@@ -38,6 +38,7 @@ tags: [software, tools, windows]
    - https://plugins.jetbrains.com/plugin/164-ideavim
    - https://plugins.jetbrains.com/plugin/7086-acejump
    - https://plugins.jetbrains.com/plugin/13092-resharper-keymap
+   - https://plugins.jetbrains.com/plugin/17567-ataman
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - node version manager
 - [pyenv-win](https://github.com/pyenv-win/pyenv-win) - python version manager
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - windows subsystem for linux
