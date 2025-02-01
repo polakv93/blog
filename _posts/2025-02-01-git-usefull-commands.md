@@ -12,5 +12,5 @@ git remote -v
 
 ## Override previous address 🔄
 ```powershell
-git remote set-url origin <new_origin_url>
+git remote set-url origin {new_origin_url}
 ```

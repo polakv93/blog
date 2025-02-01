@@ -7,15 +7,15 @@ tags: [tools, powershell]
 
 ## Show result of the command on ui and write to file 📝
 ```powershell
-<command> | Tee-Object -FilePath <file_path_to_store_output>
+{command} | Tee-Object -FilePath {file_path_to_store_output}
 ```
 
 ## Show last n rows of some file 📄
 ```powershell
-Get-Content -Path <file_path> -Tail n
+Get-Content -Path {file_path} -Tail {n}
 ```
 
 ## Copy result of the command to the clipboard 📋
 ```powershell
-<command> | Set-Clipboard
+{command} | Set-Clipboard
 ```
