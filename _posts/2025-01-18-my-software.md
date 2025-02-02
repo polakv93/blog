@@ -39,6 +39,7 @@ tags: [software, tools, windows]
    - https://plugins.jetbrains.com/plugin/7086-acejump
    - https://plugins.jetbrains.com/plugin/13092-resharper-keymap
    - https://plugins.jetbrains.com/plugin/17567-ataman
+   - https://plugins.jetbrains.com/plugin/13360-ideavim-easymotion
    - https://www.youtube.com/watch?v=vXcc-HnUG18
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - node version manager
 - [pyenv-win](https://github.com/pyenv-win/pyenv-win) - python version manager
