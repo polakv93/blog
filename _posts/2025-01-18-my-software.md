@@ -41,10 +41,13 @@ tags: [software, tools, windows]
    - https://plugins.jetbrains.com/plugin/17567-ataman
    - https://plugins.jetbrains.com/plugin/13360-ideavim-easymotion
    - https://www.youtube.com/watch?v=vXcc-HnUG18
+   - https://plugins.jetbrains.com/plugin/25899-vim-switch
+   - https://plugins.jetbrains.com/plugin/25897-vim-functiontextobj
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - node version manager
 - [pyenv-win](https://github.com/pyenv-win/pyenv-win) - python version manager
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - windows subsystem for linux
 - [Docker](https://www.docker.com/)
+- [LazyGit](https://github.com/jesseduffield/lazygit)
 
 
 ## AI
