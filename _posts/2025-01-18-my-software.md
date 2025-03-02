@@ -17,6 +17,7 @@ tags: [software, tools, windows]
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) - best cd alternative
 - [fzf](https://github.com/junegunn/fzf) - fuzzy finder
 - [f.lux](https://justgetflux.com/) - night light without eye strain
+- [yazi](https://yazi-rs.github.io) - terminal file manager
 
 ## Communication
 - [discord](https://discord.com/)
