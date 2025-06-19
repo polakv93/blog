@@ -53,4 +53,4 @@ Use [Central Package Management](https://learn.microsoft.com/en-us/nuget/consume
 4. Now you have a central place to manage your NuGet versions (also this is supported via Rider/Visual Studio)
 
 ## Tips & Tricks
-- To migrate packages in existing solutions you can use https://github.com/Vannevelj/directory-packages-props-converter
+- To migrate packages in existing solutions you can use [https://github.com/Vannevelj/directory-packages-props-converter](https://github.com/Vannevelj/directory-packages-props-converter) or official dotnet upgrade assistant tool [https://dotnet.microsoft.com/en-us/platform/upgrade-assistant](https://dotnet.microsoft.com/en-us/platform/upgrade-assistant)
